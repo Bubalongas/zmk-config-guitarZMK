@@ -1,0 +1,4 @@
+if SHIELD_GUITARZMK
+
+config  ZMK_KEYBOARD_NAME
+    default "guitarZMK"
